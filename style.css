@@ -1,0 +1,28 @@
+.header{
+	text-align: left;
+	display: flex;
+	padding: 30px 100px;
+	left: 0;
+	top: 0;
+	width: 300%;
+	border-spacing: 30%;
+	align-items: flex-end;
+			border: 2px solid;
+		justify-content: space-between;
+     		background-color: darkblue;
+     		z-index: 100;
+     		color: white;
+     		position: fixed;
+     	}
+     	.img1{
+     		background-image: url(phoole.jpg);
+     	}
+     	.page-footer{
+     		padding: 1em;
+     	}
+     	.foot{
+background-color: darkblue;
+     		z-index: 100;
+     		color: white;
+     		text-align: center;
+     	}
